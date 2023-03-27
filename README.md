@@ -9,6 +9,6 @@ My `github` [code](https://github.com/varun-kanna/scientific-computing-with-pyth
 ## [Time Calculator](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator)
 My `repl.it` [code](https://replit.com/@VarunKanna1/boilerplate-time-calculator)
 
-My `github` [code]()
+My `github` [code](https://github.com/varun-kanna/scientific-computing-with-python/tree/main/time_calculator)
 
 I am still working on the other projects. I will update them as I go
