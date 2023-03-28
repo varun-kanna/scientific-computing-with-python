@@ -2,12 +2,12 @@
 This repository contains my solutions for the projects of the python course Scientific Computing with Python from freeCodeCamp.
 
 ## [Arithmetic Formatter](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
-My code on`repl.it` [code](https://replit.com/@VarunKanna1/boilerplate-arithmetic-formatter)
+My code on `repl.it` [code](https://replit.com/@VarunKanna1/boilerplate-arithmetic-formatter)
 
-My code on`github` [code](https://github.com/varun-kanna/scientific-computing-with-python/tree/main/arithmetic_arranger)
+My code on `github` [code](https://github.com/varun-kanna/scientific-computing-with-python/tree/main/arithmetic_arranger)
 
 ## [Time Calculator](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator)
-My code on`repl.it` [code](https://replit.com/@VarunKanna1/boilerplate-time-calculator)
+My code on `repl.it` [code](https://replit.com/@VarunKanna1/boilerplate-time-calculator)
 
 My code on `github` [code](https://github.com/varun-kanna/scientific-computing-with-python/tree/main/time_calculator)
 
@@ -19,6 +19,6 @@ My code on `github` [code](https://github.com/varun-kanna/scientific-computing-w
 ## [Polygon Area Calculator](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator)
 My code on `repl.it` [code](https://replit.com/@VarunKanna1/boilerplate-polygon-area-calculator)
 
-My code on`github` [code](https://github.com/varun-kanna/scientific-computing-with-python/tree/main/polygon_area_calculator)
+My code on `github` [code](https://github.com/varun-kanna/scientific-computing-with-python/tree/main/polygon_area_calculator)
 
 I am still working on the other projects. I will update them as I go
