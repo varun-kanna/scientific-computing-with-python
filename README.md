@@ -26,5 +26,5 @@ My code on `repl.it` [code](https://replit.com/@VarunKanna1/boilerplate-probabil
 
 My code on `github` [code](https://github.com/varun-kanna/scientific-computing-with-python/tree/main/probability_calculator)
 
-https://www.freecodecamp.org/certification/Varun_K/scientific-computing-with-python-v7
+[Certificate] https://www.freecodecamp.org/certification/Varun_K/scientific-computing-with-python-v7
 ![image](https://user-images.githubusercontent.com/73306137/228707630-3cc28fbe-00bc-4af9-91b4-14e0ccea0138.png)
