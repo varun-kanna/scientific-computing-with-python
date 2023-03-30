@@ -21,4 +21,10 @@ My code on `repl.it` [code](https://replit.com/@VarunKanna1/boilerplate-polygon-
 
 My code on `github` [code](https://github.com/varun-kanna/scientific-computing-with-python/tree/main/polygon_area_calculator)
 
-I am still working on the other projects. I will update them as I go
+## [Probability Calculator](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
+My code on `repl.it` [code](https://replit.com/@VarunKanna1/boilerplate-probability-calculator)
+
+My code on `github` [code](https://github.com/varun-kanna/scientific-computing-with-python/tree/main/probability_calculator)
+
+https://www.freecodecamp.org/certification/Varun_K/scientific-computing-with-python-v7
+![image](https://user-images.githubusercontent.com/73306137/228707630-3cc28fbe-00bc-4af9-91b4-14e0ccea0138.png)
